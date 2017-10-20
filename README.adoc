@@ -1,0 +1,12 @@
+=== Spring Cloud Skipper Samples
+
+These are sample applications used to demonstrate the functionality of Skipper
+
+
+=== Building
+
+Clone the repo and type
+
+----
+$ ./mvnw clean install
+----
