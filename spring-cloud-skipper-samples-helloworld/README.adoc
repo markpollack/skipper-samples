@@ -1,0 +1,28 @@
+=== Hello World
+
+There are two endpoints `/about` and `/greeting`.  the `/about` endpoints returns the name and version of the application as defined by the maven `pom.xml`.  The `/greeting` endpoint returns the value of the configuration property `helloworld.greeting`, whose default value is "Hello World!".  You can overrride that in standard Spring Boot fashion, e.g. command line arguments.
+
+=== Execution
+
+In the target directory, to execute the app:
+```
+java -jar spring-cloud-skipper-samples-helloworld-1.0.0.BUILD-SNAPSHOT.jar --helloworld.greeting="Hey, I'm walking here!"
+```
+ +
+Yields
+ +
+```
+$ curl http://localhost:8080/about
+Hello World v1.0.0.BUILD-SNAPSHOT
+
+$ curl http://localhost:8080/greeting
+Hey, I'm walking here!
+```
+
+=== Building
+
+Clone the repo and type
+
+----
+$ ./mvnw clean install
+----
