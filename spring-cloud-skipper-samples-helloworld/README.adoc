@@ -8,9 +8,9 @@ In the target directory, to execute the app:
 ```
 java -jar spring-cloud-skipper-samples-helloworld-1.0.0.BUILD-SNAPSHOT.jar --helloworld.greeting="Hey, I'm walking here!"
 ```
- +
-Yields
- +
+
+Yields:
+
 ```
 $ curl http://localhost:8080/about
 Hello World v1.0.0.BUILD-SNAPSHOT
