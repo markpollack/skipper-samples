@@ -9,7 +9,7 @@
 	<parent>
 		<groupId>org.springframework.cloud.samples</groupId>
 		<artifactId>spring-cloud-skipper-samples-parent</artifactId>
-		<version>1.0.1.RELEASE</version>
+		<version>1.0.0.BUILD-SNAPSHOT</version>
 	</parent>
 
 	<properties>
