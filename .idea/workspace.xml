@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6907fbba-7181-45d7-b49e-8eaaf32bbe46" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-cloud-skipper-samples-helloworld/src/test/java/org/springframework/samples/helloworld/HelloWorldApplicationTests.java" afterPath="$PROJECT_DIR$/spring-cloud-skipper-samples-helloworld/src/test/java/org/springframework/samples/helloworld/HelloWorldApplicationTests.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-cloud-skipper-samples-helloworld/pom.xml" afterPath="$PROJECT_DIR$/spring-cloud-skipper-samples-helloworld/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/spring-cloud-skipper-samples-helloworld/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -16,29 +18,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="40" column="31" lean-forward="false" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
-              <folding>
-                <marker date="1508818364014" expanded="true" signature="571:717" ph="..." />
-                <marker date="1508818364014" expanded="true" signature="732:782" ph="..." />
-                <marker date="1508818364014" expanded="true" signature="793:864" ph="..." />
-                <marker date="1508818364014" expanded="true" signature="871:950" ph="..." />
-                <marker date="1508818364014" expanded="true" signature="961:1908" ph="..." />
-                <marker date="1508818364014" expanded="true" signature="982:1162" ph="..." />
-                <marker date="1508818364014" expanded="true" signature="995:1140" ph="..." />
-                <marker date="1508818364014" expanded="true" signature="1008:1126" ph="..." />
-                <marker date="1508818364014" expanded="true" signature="1174:1898" ph="..." />
-                <marker date="1508818364014" expanded="true" signature="1186:1666" ph="..." />
-                <marker date="1508818364014" expanded="true" signature="1305:1653" ph="..." />
-                <marker date="1508818364014" expanded="true" signature="1321:1378" ph="..." />
-                <marker date="1508818364014" expanded="true" signature="1394:1454" ph="..." />
-                <marker date="1508818364014" expanded="true" signature="1485:1632" ph="..." />
-                <marker date="1508818364014" expanded="true" signature="1678:1885" ph="..." />
-                <marker date="1508818364014" expanded="true" signature="1796:1840" ph="..." />
-              </folding>
+            <state relative-caret-position="126">
+              <caret line="6" column="33" lean-forward="false" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -105,11 +90,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HelloWorldApplicationTests.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HelloWorldApplicationTests.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring-cloud-skipper-samples-helloworld/src/test/java/org/springframework/samples/helloworld/HelloWorldApplicationTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="311">
-              <caret line="36" column="70" lean-forward="false" selection-start-line="36" selection-start-column="70" selection-end-line="36" selection-end-column="70" />
+            <state relative-caret-position="203">
+              <caret line="30" column="12" lean-forward="false" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -146,8 +131,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring-cloud-skipper-samples-helloworld/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+            <state relative-caret-position="144">
+              <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -189,11 +174,11 @@
         <option value="$PROJECT_DIR$/spring-cloud-skipper-samples-helloworld/src/main/resources/static/index.html" />
         <option value="$PROJECT_DIR$/spring-cloud-skipper-samples-helloworld/src/test/java/org/springframework/samples/helloworld/HelloworldApplicationTests.java" />
         <option value="$PROJECT_DIR$/spring-cloud-skipper-samples-helloworld/src/main/java/org/springframework/samples/helloworld/HelloWorldApplication.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-skipper-samples-helloworld/src/main/java/org/springframework/samples/helloworld/HelloWorldController.java" />
         <option value="$PROJECT_DIR$/spring-cloud-skipper-samples-helloworld/src/main/java/org/springframework/samples/helloworld/HelloWorldProperties.java" />
-        <option value="$PROJECT_DIR$/spring-cloud-skipper-samples-helloworld/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-skipper-samples-helloworld/src/test/java/org/springframework/samples/helloworld/HelloWorldApplicationTests.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-skipper-samples-helloworld/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -726,7 +711,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10154000" />
+    <option name="totallyTimeSpent" value="10333000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1985" y="-4" width="1615" height="1054" extended-state="6" />
@@ -738,7 +723,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44648647" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44648647" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -880,24 +865,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
-          <folding>
-            <marker date="1508818364014" expanded="true" signature="571:717" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="732:782" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="793:864" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="871:950" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="961:1908" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="982:1162" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="995:1140" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="1008:1126" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="1174:1898" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="1186:1666" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="1305:1653" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="1321:1378" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="1394:1454" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="1485:1632" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="1678:1885" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="1796:1840" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -957,24 +925,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="303">
           <caret line="41" column="31" lean-forward="false" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
-          <folding>
-            <marker date="1508818364014" expanded="true" signature="571:717" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="732:782" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="793:864" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="871:950" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="961:1908" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="982:1162" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="995:1140" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="1008:1126" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="1174:1898" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="1186:1666" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="1305:1653" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="1321:1378" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="1394:1454" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="1485:1632" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="1678:1885" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="1796:1840" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1136,24 +1087,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
-          <folding>
-            <marker date="1508818364014" expanded="true" signature="571:717" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="732:782" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="793:864" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="871:950" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="961:1908" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="982:1162" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="995:1140" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="1008:1126" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="1174:1898" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="1186:1666" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="1305:1653" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="1321:1378" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="1394:1454" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="1485:1632" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="1678:1885" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="1796:1840" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1209,31 +1143,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="40" column="31" lean-forward="false" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
-          <folding>
-            <marker date="1508818364014" expanded="true" signature="571:717" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="732:782" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="793:864" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="871:950" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="961:1908" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="982:1162" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="995:1140" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="1008:1126" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="1174:1898" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="1186:1666" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="1305:1653" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="1321:1378" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="1394:1454" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="1485:1632" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="1678:1885" ph="..." />
-            <marker date="1508818364014" expanded="true" signature="1796:1840" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring-cloud-skipper-samples-helloworld/src/main/java/org/springframework/samples/helloworld/HelloWorldProperties.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -1278,21 +1187,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-skipper-samples-helloworld/src/test/java/org/springframework/samples/helloworld/HelloWorldApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="30" column="12" lean-forward="false" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/spring-cloud-skipper-samples-helloworld/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        <state relative-caret-position="144">
+          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-skipper-samples-helloworld/src/test/java/org/springframework/samples/helloworld/HelloWorldApplicationTests.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="36" column="70" lean-forward="false" selection-start-line="36" selection-start-column="70" selection-end-line="36" selection-end-column="70" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="126">
+          <caret line="6" column="33" lean-forward="false" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>
