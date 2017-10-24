@@ -41,6 +41,7 @@ public class HelloWorldController {
 	public String about() {
 		return appName + " v" + appVersion;
 	}
+
 	@RequestMapping(path = "/greeting", method = RequestMethod.GET)
 	public String greeting() {
 		return helloWorldProperties.getGreeting();
