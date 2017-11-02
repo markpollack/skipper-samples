@@ -26,3 +26,10 @@ Clone the repo and type
 ----
 $ ./mvnw clean install
 ----
+
+To create a docker image
+----
+./mvnw dockerfile:build -pl spring-cloud-skipper-samples-helloworld/
+----
+
+will build the docker image named `springcloud/spring-cloud-skipper-samples-helloworld:1.0.0.BUILD-SNAPSHOT`
